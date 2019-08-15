@@ -9,10 +9,3 @@ The question is ​
 >a sphere (using the uniform distribution). What is the probability
 >that the center of the sphere lies inside the resulting tetrahedron?
 ​
-
-We will look first look at this question in 2-dimensions, 
-that question
-​
->Three points are chosen independently and at random on the surface
->of a circle. What is the probability that the center of the circle
->lies inside the resulting triangle?
